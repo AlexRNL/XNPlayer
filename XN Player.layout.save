@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="XN player.c" open="1" top="0" tabpos="2">
+		<Cursor position="610" topLine="0" />
+	</File>
+	<File name="XN player.h" open="1" top="0" tabpos="5">
+		<Cursor position="223" topLine="0" />
+	</File>
+	<File name="affichage.c" open="1" top="0" tabpos="3">
+		<Cursor position="2298" topLine="51" />
+	</File>
+	<File name="affichage.h" open="1" top="1" tabpos="6">
+		<Cursor position="423" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="291" topLine="0" />
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="4">
+		<Cursor position="190" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
